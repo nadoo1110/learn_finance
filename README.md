@@ -1,6 +1,6 @@
 # learn_finance
 
-## Investing101 : 1 week
+## Investing101 : 1 day : D
 https://www.investopedia.com/university/beginner/
 
 ### Start using a virtual stock trainer app or interface
