@@ -3,7 +3,7 @@
 ## Investing101 : 1 day : D
 https://www.investopedia.com/university/beginner/
 
-### Start using a virtual stock trainer app or interface
+### Varsity: full
 
 ## Book : One up on wall street by Peter Lynch : 1 week
 
