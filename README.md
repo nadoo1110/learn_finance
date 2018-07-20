@@ -7,6 +7,8 @@ https://www.investopedia.com/university/beginner/
 
 ## Book : One up on wall street by Peter Lynch : 1 week
 
+## start trading small scale
+
 ## Investment and Portfolio Management Specialization : # 4 weeks
 https://www.coursera.org/specializations/investment-portolio-management
 
