@@ -3,7 +3,7 @@
 ## Investing101 : 1 day : D
 https://www.investopedia.com/university/beginner/
 
-### Varsity: full
+### Varsity: full : 2 weeks
 
 ## Book : One up on wall street by Peter Lynch : 1 week
 
